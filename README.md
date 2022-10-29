@@ -8,4 +8,4 @@
 内置了几个用户和群组
 
 详情请看视频
-(审核....)
+(https://www.bilibili.com/video/BV1mm4y1F73v/)
