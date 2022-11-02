@@ -1,0 +1,2 @@
+g1 Grp1 2|1
+APPEND g1 3
